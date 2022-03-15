@@ -1,0 +1,9 @@
+name: HotLoadingSystem
+version: '1.0'
+main: ary.code.anticheat.hotloading.Main
+authors: [RainyNight]
+depend: [ProtocolLib]
+description: Just A AntiCheat Coded By RainyNight
+commands:
+  ary:
+    description: Reload Command
